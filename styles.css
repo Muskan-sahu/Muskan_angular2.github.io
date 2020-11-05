@@ -1,6 +1,12 @@
 h1 {
   margin-bottom: 30px;
 }
+body{
+background: url('image.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
 input[type="text"] {
   width: 200px;
   float: left;
